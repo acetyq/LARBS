@@ -138,7 +138,7 @@ gitmakeinstall() {
 		--no-tags -q "$1" "$dir" ||
 		{
 			cd "$dir" || return 1
-			sudo -u "$name" git pull --force origin master
+			sudo -u "$name" git pull
 		}
 	cd "$dir" || exit 1
 	make >/dev/null 2>&1

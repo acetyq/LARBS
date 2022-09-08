@@ -27,7 +27,7 @@ A,gtk-theme-arc-gruvbox-git,"gives the dark GTK theme used in LARBS."
 ,neovim,"a tidier vim with some useful features"
 ,mpv,"is the patrician's choice video player."
 ,man-db,"lets you read man pages of programs."
-A,librewolf-bin,"the default browser of LARBS which also comes with ad-blocking and other sensible and necessary features by default."
+A,chromium,is for web-browsing.
 A,noto-fonts,"is an expansive font package."
 ,noto-fonts-emoji,"is an emoji font."
 ,ntfs-3g,"allows accessing NTFS partitions."
